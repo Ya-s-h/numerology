@@ -1,0 +1,26 @@
+{
+  "name": "numerology",
+  "version": "1.0.0",
+  "description": "Node JS Backend-Server that responds with certain numbers based on your name and D.O.B. All calculations are based on the book on numerology by ravindra kumar.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ya-s-h/numerology.git"
+  },
+  "keywords": [
+    "Numerology",
+    "predictions"
+  ],
+  "author": "Ya-s-h",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ya-s-h/numerology/issues"
+  },
+  "homepage": "https://github.com/Ya-s-h/numerology#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
